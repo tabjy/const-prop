@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dcbe8c7-2603-42dd-9015-5b3e04e1d8c3" name="Changes" comment="check point" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PLBaefE78nGTe6touHWtDR2tf3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kxu/Documents/github.com/tabjy/const-prop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/openjdk/leyden/constprop/targets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.openjdk.leyden.constprop.analysis" />
+      <recent name="org.openjdk.leyden.constprop.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConstantizationAnalyzerTest.testTargetExtraction">
+    <configuration name="ConstantizationAnalyzerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="const-prop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjdk.leyden.constprop.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.openjdk.leyden.constprop.analysis" />
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.leyden.constprop.analysis.ConstantizationAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantizationAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="const-prop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjdk.leyden.constprop.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.openjdk.leyden.constprop.analysis" />
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.leyden.constprop.analysis.ConstantizationAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantizationAnalyzerTest.testAdhocBasicInterpreter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="const-prop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjdk.leyden.constprop.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.openjdk.leyden.constprop.analysis" />
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.leyden.constprop.analysis.ConstantizationAnalyzerTest" />
+      <option name="METHOD_NAME" value="testAdhocBasicInterpreter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantizationAnalyzerTest.testAdhocConstantizationInterpreter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="const-prop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjdk.leyden.constprop.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.openjdk.leyden.constprop.analysis" />
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.leyden.constprop.analysis.ConstantizationAnalyzerTest" />
+      <option name="METHOD_NAME" value="testAdhocConstantizationInterpreter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantizationAnalyzerTest.testTargetExtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="const-prop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjdk.leyden.constprop.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.openjdk.leyden.constprop.analysis" />
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.leyden.constprop.analysis.ConstantizationAnalyzerTest" />
+      <option name="METHOD_NAME" value="testTargetExtraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConstantizationAnalyzerTest.testTargetExtraction" />
+        <item itemvalue="JUnit.ConstantizationAnalyzerTest.testAdhocConstantizationInterpreter" />
+        <item itemvalue="JUnit.ConstantizationAnalyzerTest.testAdhocBasicInterpreter" />
+        <item itemvalue="JUnit.ConstantizationAnalyzerTest (1)" />
+        <item itemvalue="JUnit.ConstantizationAnalyzerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dcbe8c7-2603-42dd-9015-5b3e04e1d8c3" name="Changes" comment="" />
+      <created>1683226547913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683226547913</updated>
+    </task>
+    <task id="LOCAL-00001" summary="value classes">
+      <created>1683738417329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683738417329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="value classes and operations">
+      <created>1683817590597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817590597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="unit test for int value">
+      <created>1683826656674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683826656674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="value factory">
+      <created>1684347818828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684347818828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="check point">
+      <created>1684864903477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684864903477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="check point">
+      <created>1684874405475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684874405475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="check point">
+      <created>1684946250085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684946250085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="check point">
+      <created>1686259946538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686259946538</updated>
+    </task>
+    <task id="LOCAL-00009" summary="check point">
+      <created>1690831652759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690831652759</updated>
+    </task>
+    <task id="LOCAL-00010" summary="check point">
+      <created>1691993395884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691993395884</updated>
+    </task>
+    <task id="LOCAL-00011" summary="check point">
+      <created>1692022042299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692022042299</updated>
+    </task>
+    <task id="LOCAL-00012" summary="check point">
+      <created>1692022088475</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692022088475</updated>
+    </task>
+    <task id="LOCAL-00013" summary="check point">
+      <created>1692022886766</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692022886766</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="value classes" />
+    <MESSAGE value="value classes and operations" />
+    <MESSAGE value="unit test for int value" />
+    <MESSAGE value="value factory" />
+    <MESSAGE value="check point" />
+    <option name="LAST_COMMIT_MESSAGE" value="check point" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/openjdk/leyden/constprop/operations/BinaryOperation.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5-sources.jar!/org/objectweb/asm/tree/analysis/Analyzer.java</url>
+          <line>687</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/openjdk/leyden/constprop/analysis/ConstantizationInterpreter.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.openjdk.leyden.constprop.values.ConstantizationValue$MergedValues" memberName="sources" />
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="org.openjdk.leyden.constprop.util.Unknowable" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="values[i]" language="JAVA" />
+        <watch expression="frame.values[i]" language="JAVA" />
+        <watch expression="v" language="JAVA" />
+        <watch expression="v.equals(values[i])" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="result.toString()" language="JAVA" />
+        <watch expression="remainingProducts.toString()" language="JAVA" />
+        <watch expression="newProduct.toString()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/const_prop$ConstantizationAnalyzerTest_testAdhocConstantizationInterpreter.ic" NAME="ConstantizationAnalyzerTest.testAdhocConstantizationInterpreter Coverage Results" MODIFIED="1690830992116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.openjdk.leyden.constprop.analysis.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/const_prop$CartesianProductTest.ic" NAME="CartesianProductTest Coverage Results" MODIFIED="1683819040290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.*</FILTER>
+    </SUITE>
+  </component>
+</project>
